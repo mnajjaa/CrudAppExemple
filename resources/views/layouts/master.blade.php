@@ -15,7 +15,7 @@
 
     
 
-<link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+<link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet"  crossorigin="anonymous">
 
     <!-- Favicons -->
 <link rel="apple-touch-icon" href="/docs/5.3/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
